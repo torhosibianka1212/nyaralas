@@ -1,0 +1,26 @@
+body{
+
+	margin: 30px auto;
+	border: 5px green;
+	padding: 20px;
+	width: 70%;
+	font-size: 14pt;
+	text-align: justify;
+	background-color: orange;
+	color: green;
+	font-family:Times New Roman, serif;
+	
+}
+h1{
+	text-align:center;
+}
+#felkovert{
+	font-weight: bold;
+}
+#behuz{
+	margin-left: 40px;
+}
+#kicsi{
+	width:150px;
+	float: right;
+}
